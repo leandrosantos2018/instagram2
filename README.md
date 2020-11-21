@@ -1,6 +1,7 @@
 ﻿# instagram2
  
- - Foi alterado as cores padroes da página inical 
- - foi incluido nova foto de perfil(a minha rs)
+Foram alteradas as cores padroes da página inicial
+Foi incluída nova foto de perfil.
  
- obs.: foi seguindo passo a passo recriação confomre foi apresentado no curso na  Digital innovention one e implemetado as mudanças de cores 
+ 
+ foi seguindo passo a passo recriação conforme foi apresentado no curso na Digital Innovation One e implementadas as mudanças de cores
